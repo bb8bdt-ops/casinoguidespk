@@ -1,0 +1,10 @@
+title: CasinoGuidesPK
+description: Expert casino gaming guides for PK players.
+baseurl: "/casinoguidespk"
+url: "https://bb8bdt-ops.github.io"
+lang: en
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
