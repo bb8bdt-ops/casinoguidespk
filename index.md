@@ -11,8 +11,9 @@ Expert casino gaming guides for Pakistani players — slots, roulette, blackjack
 
 ---
 
-## Latest Articles (5)
+## Latest Articles (6)
 
+- [Live Casino Guide for Pakistani Players: How Live Dealer Games Work](./live-casino-guide-for-pakistani-players-how-live-dealer-game/)
 - [Payment Methods in Pakistan Online Casinos: JazzCash, EasyPaisa, and More](./payment-methods-in-pakistan-online-casinos-jazzcash-easypais/)
 - [Blackjack Basics for Pakistan: Basic Strategy and Rules](./blackjack-basics-for-pakistan-basic-strategy-and-rules/)
 - [Roulette Guide for Pakistani Players: European vs American Rules](./roulette-guide-for-pakistani-players-european-vs-american-ru/)
